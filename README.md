@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 I am an Associate Machine Learning Engineer dedicated to building intelligent, production-ready AI systems.  
-My interests span across **deep learning, backend engineering, MLOps, RAG pipelines, and cloud-native applications**.  
+My interests span across **deep learning, backend engineering, MLOps, and cloud-native applications**.  
 I love solving real-world problems using data, automation, and clean architecture.
 
 ---
@@ -59,20 +59,6 @@ A production-ready Retrieval-Augmented Generation pipeline with embeddings, chun
 
 ### 🤖 **DSA Solver using Autogen**
 An automated multi-agent system that solves DSA problems using LLMs and Autogen workflows.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasiruLakruwan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruLakruwan&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasiruLakruwan&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 
 ---
 
