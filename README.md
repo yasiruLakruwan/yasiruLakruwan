@@ -24,7 +24,6 @@ I love solving real-world problems using data, automation, and clean architectur
 
   <!-- ML & AI -->
   <img src="https://skillicons.dev/icons?i=tensorflow" width="48" />
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
 
   <!-- Backend Frameworks -->
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
