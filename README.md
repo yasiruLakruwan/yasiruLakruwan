@@ -62,7 +62,7 @@ An automated multi-agent system that solves DSA problems using LLMs and Autogen 
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [yasiruLakruwan](https://www.linkedin.com/in/yasiru-lakruwan/)  
+- **LinkedIn:** [yasiruLakruwan](https://www.linkedin.com/in/yasiru-lakruwan-2b577223a/)  
 - **Email:** yapa1459@gmail.com
 
 ---
