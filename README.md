@@ -39,16 +39,16 @@ I love solving real-world problems using **data, automation, and clean architect
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="48" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
-
+  <img src="assets/scikit.png" width="48" />
   <img src="assets/download.png" width="48" />
   <img src="assets/download (1).png" width="48" />
 </p>
+
 ### ⚡ Backend & Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
   <img src="https://skillicons.dev/icons?i=flask" width="48" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
   <img src="https://skillicons.dev/icons?i=react" width="48" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
 </p>
