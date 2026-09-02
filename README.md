@@ -23,7 +23,8 @@ I enjoy taking ML projects from **data preprocessing and model development to de
 ### 💻 Programming & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-orange?style=for-the-badge" />
 </p>
 
 ### 🤖 AI / Machine Learning
