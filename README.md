@@ -31,15 +31,17 @@ I love solving real-world problems using **data, automation, and clean architect
   <img src="https://skillicons.dev/icons?i=html" width="48" />
   <img src="https://skillicons.dev/icons?i=css" width="48" />
   <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
 </p>
 
 ### 🤖 Machine Learning & AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" />
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
-  <img src="https://cdn.simpleicons.org/langchain" width="48" />
-  <img src="https://cdn.simpleicons.org/langgraph" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langgraph/langgraph-original.svg" width="48" />
 </p>
 
 ### ⚡ Backend & Frontend
