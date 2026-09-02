@@ -32,6 +32,7 @@ I love solving real-world problems using **data, automation, and clean architect
   <img src="https://skillicons.dev/icons?i=css" width="48" />
   <img src="https://skillicons.dev/icons?i=mysql" width="48" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+  <img src="assets/chroma.jpg" width="48" />
 </p>
 
 ### 🤖 Machine Learning & AI
