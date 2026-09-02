@@ -32,6 +32,11 @@ I enjoy taking ML projects from **data preprocessing and model development to de
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=for-the-badge" />
+</p>
+
 **ML / AI:** Scikit-learn • CNNs • RNNs • Computer Vision • LLMs • RAG • Embeddings • Vector Search
 
 ### ⚙️ Backend & Frontend
