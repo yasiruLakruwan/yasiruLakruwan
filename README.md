@@ -36,10 +36,7 @@ I love solving real-world problems using **data, automation, and clean architect
 
 ### 🤖 Machine Learning & AI
 
-### 🤖 Machine Learning & AI
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="48" />
   <img src="https://skillicons.dev/icons?i=tensorflow" width="48" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
 
