@@ -37,11 +37,11 @@ I love solving real-world problems using **data, automation, and clean architect
 ### 🤖 Machine Learning & AI
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langgraph/langgraph-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tensorflow.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pytorch.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langgraph.svg" width="48" />
 </p>
 
 ### ⚡ Backend & Frontend
@@ -49,6 +49,7 @@ I love solving real-world problems using **data, automation, and clean architect
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
   <img src="https://skillicons.dev/icons?i=flask" width="48" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
   <img src="https://skillicons.dev/icons?i=react" width="48" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
 </p>
