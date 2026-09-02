@@ -41,7 +41,7 @@ I love solving real-world problems using **data, automation, and clean architect
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
 
   <img src="assets/download.png" width="48" />
-  <img src="download(1).png" width="48" />
+  <img src="assets/download(1).png" width="48" />
 </p>
 ### ⚡ Backend & Frontend
 
