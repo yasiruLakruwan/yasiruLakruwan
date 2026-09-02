@@ -88,16 +88,6 @@ An automated **multi-agent AI system** designed to solve Data Structures and Alg
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yasiru-lakruwan-2b577223a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
-  &nbsp;
-  <a href="mailto:yapa1459@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
-  </a>
-</p>
-
 - 💼 **LinkedIn:** [yasiruLakruwan](https://www.linkedin.com/in/yasiru-lakruwan-2b577223a/)
 - 📧 **Email:** yapa1459@gmail.com
 
