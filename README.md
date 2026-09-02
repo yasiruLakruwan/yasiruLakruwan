@@ -36,14 +36,16 @@ I love solving real-world problems using **data, automation, and clean architect
 
 ### 🤖 Machine Learning & AI
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tensorflow.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pytorch.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langgraph.svg" width="48" />
-</p>
+### 🤖 Machine Learning & AI
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="48" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
+
+  <img src="https://raw.githubusercontent.com/langchain-ai/docs/main/static/images/brand/langchain-icon.png" width="48" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/docs/main/static/images/brand/langgraph-icon.png" width="48" />
+</p>
 ### ⚡ Backend & Frontend
 
 <p align="left">
