@@ -68,6 +68,9 @@ I love solving real-world problems using **data, automation, and clean architect
   <img src="https://skillicons.dev/icons?i=githubactions" width="48" />
   <img src="https://skillicons.dev/icons?i=jenkins" width="48" />
   <img src="https://skillicons.dev/icons?i=git" width="48" />
+  <img src="assets/dvc.jpg" width="48" />
+  <img src="assets/mlflow.png" width="48" />
+  <img src="assets/astro.jpg" width="48" />
 </p>
 
 ---
